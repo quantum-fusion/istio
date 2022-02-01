@@ -1,4 +1,4 @@
-# istio-
+# istio
 
 Istio Azure install 
 https://docs.microsoft.com/en-us/azure/aks/istio-install
